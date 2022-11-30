@@ -1,3 +1,3 @@
-# buildspace 
+# Explain Like I'm 5 🐣
 ### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+This is a simple app that uses gpt-3 to explain any topic to you as if you were a five year old.

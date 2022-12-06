@@ -2,7 +2,6 @@ import Head from 'next/head';
 import Image from 'next/image';
 import { useState } from 'react';
 
-import buildspaceLogo from '../assets/buildspace-logo.png';
 import twitterLogo from '../assets/twitter-logo.svg';
 
 const Home = () => {
